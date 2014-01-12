@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: de.bwaldvogel:mongo-java-server:1.1.1">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/de/bwaldvogel/mongo-java-server/1.1.1/mongo-java-server-1.1.1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/de/bwaldvogel/mongo-java-server/1.1.1/mongo-java-server-1.1.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/de/bwaldvogel/mongo-java-server/1.1.1/mongo-java-server-1.1.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
